@@ -14,12 +14,23 @@ Whether you're learning Unreal Engine, prototyping wild game ideas, or just into
 
 ---
 
+## ⚙️ Open Collaboration
+
+🎯 **This is a non-commercial, open-source project.**  
+We welcome **all Unreal Engine developers** — from beginners to veterans — to contribute, experiment, and have fun.
+
+> Got a new yeeting idea? Build it.  
+> Want to improve visuals, physics, or chaos? Go for it.  
+> Fork it, mod it, break it — just don’t try to sell it.
+
+---
+
 ## 🚀 Key Features
 
 - 🐔 Fully ragdoll-simulated chicken
 - 🧨 Interactive yeeting tools (slingshots, cannons, fans, more!)
 - 🧠 Blueprint + C++ hybrid system
-- 🎮 Single-player, no-nonsense design
+- 🎮 Single-player, no-nonsense design, Future Multi-player plan!
 - 🎬 Cinematic launch cameras and slow-mo replays (WIP)
 - 🗺️ Modular level design for expansion and testing
 - 🛠️ Built to be extended, modded, and hacked
@@ -28,13 +39,11 @@ Whether you're learning Unreal Engine, prototyping wild game ideas, or just into
 
 ## 🧱 Tech Stack
 
-- Unreal Engine 5.3+
+- Unreal Engine v5.5
 - C++ with Blueprint integration
 - Physics-based gameplay
 - Modular component system
-- Development Target: Windows (UE5)
+- Development Target: Windows
 
----
 
-## 📁 Project Structure
 
